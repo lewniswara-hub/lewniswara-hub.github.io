@@ -124,7 +124,6 @@
 ---
 
 ### 📊 1. Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด
-![image](https://github.com...)
 
 <img width="1441" height="747" alt="image" src="https://github.com/user-attachments/assets/9c17236a-791f-4771-b1bc-3e52c6c7035e" />
 
