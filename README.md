@@ -124,6 +124,7 @@
 ---
 
 ### 📊 1. Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด
+![Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด](graph1.png)
 
 <img width="1441" height="747" alt="image" src="https://github.com/user-attachments/assets/9c17236a-791f-4771-b1bc-3e52c6c7035e" />
 
@@ -135,6 +136,7 @@
 ---
 
 ### 📊 2. Histogram ระดับความพึงพอใจโดยรวมของนักศึกษาที่มีต่อสิ่งอำนวยความสะดวกในมหาวิทยาลัย
+![Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด](graph2.png)
 
 <img width="1401" height="649" alt="image" src="https://github.com/user-attachments/assets/b7a1da78-aaad-43e3-8cde-69e07756bf1a" />
 
@@ -146,6 +148,7 @@
 ---
 
 ### 📊 3. Scatter ความสัมพันธ์ระหว่างระยะเวลาที่ใช้สิ่งอำนวยความสะดวกกับระดับความพึงพอใจ
+![Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด](graph3.png)
 
 <img width="1425" height="724" alt="image" src="https://github.com/user-attachments/assets/ee6869f8-56b7-4a76-9de9-f6d0ba3d684c" />
 
