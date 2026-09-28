@@ -125,7 +125,7 @@
 
 ### 📊 1. Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด
 
-![Bar chart สิ่งอำนวยความสะดวกที่ใช้บ่อยที่สุด](ชื่อไฟล์กราฟแท่ง.<img width="1441" height="747" alt="image" src="https://github.com/user-attachments/assets/9c17236a-791f-4771-b1bc-3e52c6c7035e" />
+<img width="1441" height="747" alt="image" src="https://github.com/user-attachments/assets/9c17236a-791f-4771-b1bc-3e52c6c7035e" />
 png)
 
 **คำอธิบายและข้อความนำเสนอจากกราฟ:**
